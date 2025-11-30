@@ -17,13 +17,6 @@ Profile README for github.com/vineet1409
   <a href="https://patents.google.com/patent/US20200039784A1/en">Patent</a>
 </p>
 
-<!-- Profile picture (uses your GitHub avatar by default; replace src with a custom photo if you want) -->
-<p align="center">
-  <img src="https://github.com/vineet1409.png"
-       alt="Vineet Srivastava"
-       width="160"
-       style="border-radius:50%; border: 2px solid #ccc;" />
-</p>
 
 ---
 
